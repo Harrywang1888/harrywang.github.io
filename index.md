@@ -8,8 +8,8 @@
 <img src="images/rainbow_portrait.jpg?raw=true"/>
 
 ---
-[Machine Learning Project Report](/pdf/Project 2-3.pdf)
-<img src="images/Project2_portrait?raw=true"/>
+[Machine Learning Project Report](/pdf/Project2-3.pdf)
+<img src="images/Project2_portrait.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
