@@ -19,11 +19,11 @@
 
 ### Google Career Certificate Course Badges
 
-- [Course 1: Foundations: Data, Data, Everywhere](/pdf/Google&#32Career&#32Certificate/Foundations.pdf)
-- [Course 2: Ask Questions to Make Data-Driven Decisions](/pdf/Google&#32Career&#32Certificate/Ask&#32Questions&#32to&#32Make&#32Data-DrivenDecisins.pdf)
-- [Course 3: Prepare Data for Exploration](/pdf/Google&#32Career&#32Certificate/Prepare&#32Data.pdf)
-- [Course 4: Process Data from Dirty to Clean](/pdf/Google&#32Career&#32Certificate/Process&#32Data.pdf)
-- [Course 5: Analyze Data to Answer Questions](/pdf/Google&#32Career&#32Certificate/Analyze&#32Data.pdf)
+- [Course 1: Foundations: Data, Data, Everywhere](/pdf/GCC/Foundations.pdf)
+- [Course 2: Ask Questions to Make Data-Driven Decisions](/pdf/GCC/Ask.pdf)
+- [Course 3: Prepare Data for Exploration](/pdf/GCC/Prepare.pdf)
+- [Course 4: Process Data from Dirty to Clean](/pdf/GCC/Process.pdf)
+- [Course 5: Analyze Data to Answer Questions](/pdf/GCC/Analyze.pdf)
 ### Working on the 6th Course. 
 
 ---
