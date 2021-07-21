@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Sample of Work 
 
 [Rainbow Chart using Plotly](/rainbow.html)
 <img src="images/rainbow_portrait.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Machine Learning Project Report](/pdf/Project 2-3.pdf)
+<img src="images/Project2_portrait?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
