@@ -17,19 +17,20 @@
 
 ---
 
-### Category Name 2
+### Google Career Certificate Course Badges
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+- [Course 1: Foundations: Data, Data, Everywhere](/pdf/Google&#32Career&#32Certificate/Foundations.pdf)
+- [Course 2: Ask Questions to Make Data-Driven Decisions](/pdf/Google&#32Career&#32Certificate/Ask&#32Questions&#32to&#32Make&#32Data-DrivenDecisins.pdf)
+- [Course 3: Prepare Data for Exploration](/pdf/Google&#32Career&#32Certificate/Prepare&#32Data.pdf)
+- [Course 4: Process Data from Dirty to Clean](/pdf/Google&#32Career&#32Certificate/Process&#32Data.pdf)
+- [Course 5: Analyze Data to Answer Questions](/pdf/Google&#32Career&#32Certificate/Analyze&#32Data.pdf)
+### Working on the 6th Course. 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+
+
+
+
+---
+<p style="font-size:11px">Thank you so much for the template Evanca, you are a miracle worker. <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
