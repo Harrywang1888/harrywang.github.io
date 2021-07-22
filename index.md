@@ -12,8 +12,8 @@
 <img src="images/Project2_portrait.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Tableau View (You may need Tableau Public to access this view)](https://public.tableau.com/shared/MFYMJ7DTJ?:display_count=n&:origin=viz_share_link/)
+<img src="images/CO2_emission.jpg?raw=true"/>
 
 ---
 
